@@ -1,2 +1,2 @@
 # El-analisis-predictivo-y-la-eficiencia-operativa-en-el-transporte-terrestre.
-El análisis predictivo impulsado por Inteligencia Artificial (IA) en la logística del transporte por carretera, transforma los datos históricos, en tiempo real, en decisiones proactivas. Su objetivo principal es pasar de la reacción a la eficiencia operativa, 
+El análisis predictivo impulsado por Inteligencia Artificial (IA) en la logística del transporte por carretera, transforma los datos históricos, en tiempo real, en decisiones proactivas. Su objetivo principal es pasar de la reacción a la eficiencia operativa. # El-analisis-predictivo-y-la-eficiencia-operativa-en-el-transporte terrestre.
